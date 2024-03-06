@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LFHSystems.ExcelReader.App", "LFHSystems.ExcelReader.App\LFHSystems.ExcelReader.App.csproj", "{58A08F3E-9F26-49C1-B209-C1961FFA89ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58A08F3E-9F26-49C1-B209-C1961FFA89ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A08F3E-9F26-49C1-B209-C1961FFA89ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A08F3E-9F26-49C1-B209-C1961FFA89ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A08F3E-9F26-49C1-B209-C1961FFA89ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846D47BB-90E1-46FE-BB82-C671B4A6E51E}
+	EndGlobalSection
+EndGlobal
